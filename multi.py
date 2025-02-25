@@ -6,4 +6,4 @@ with st.form (" tables "):
 if u:
     
     for i in range(1, 11):
-        st.write(f"{a}*{i}={i*a}")
+        st.write(f"{a} * {i} = {i*a}")
